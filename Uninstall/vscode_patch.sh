@@ -1,6 +1,7 @@
 #!/bin/bash
 
 url="https://github.com/AndronixApp/andronix-external-app/releases/download/1.0.0/code-stable-"
+url="https://github.com/Muntader-N/My-ubuntu/releases/download/v1.0.0/code-stable-"
 ARCH=""
 
 red="\033[0;31m"
